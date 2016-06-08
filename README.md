@@ -1,3 +1,11 @@
+Originally from
+=================
+This repo is originally forked from
+
+https://github.com/salbahra/cordova-plugin-networkinterface
+
+The original repo was not getting IP of device if its connected over mobile network.
+
 Network Interface
 =================
 
